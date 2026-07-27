@@ -1,0 +1,4 @@
+﻿releases/*.zip
+releases/UForge-*/
+.DS_Store
+Thumbs.db
